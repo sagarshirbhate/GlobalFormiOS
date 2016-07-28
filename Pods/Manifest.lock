@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (3.4.1)
+  - Eureka (1.7.0)
+  - Kingfisher (2.4.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - Eureka (~> 1.5)
+  - Kingfisher (~> 2.4)
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  Eureka: 2020d9faeef7b7e9adeb9e3d8af779e5931c1897
+  Kingfisher: 05bf8d04408aaa70fcd2c8c81b9f1d0f1ad313dd
+
+PODFILE CHECKSUM: 282c1fffc7948076822d5eb2b4bbffee8409a118
+
+COCOAPODS: 1.0.1

@@ -1,0 +1,6 @@
+framework module Pods_Global_Forms {
+  umbrella header "Pods-Global Forms-umbrella.h"
+
+  export *
+  module * { export * }
+}
