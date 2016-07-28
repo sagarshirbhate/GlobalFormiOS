@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		139D76841D4A1F8900947D82 /* cropped-Transparent-Logo-S-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 139D76831D4A1F8900947D82 /* cropped-Transparent-Logo-S-1.png */; };
 		13FF8B1D1D47350B002B4BAD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13FF8B1C1D47350B002B4BAD /* AppDelegate.swift */; };
 		13FF8B1F1D47350B002B4BAD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13FF8B1E1D47350B002B4BAD /* ViewController.swift */; };
 		13FF8B221D47350B002B4BAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13FF8B201D47350B002B4BAD /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		139D76831D4A1F8900947D82 /* cropped-Transparent-Logo-S-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cropped-Transparent-Logo-S-1.png"; sourceTree = "<group>"; };
 		13FF8B191D47350B002B4BAD /* Global Forms.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Global Forms.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13FF8B1C1D47350B002B4BAD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		13FF8B1E1D47350B002B4BAD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 		13FF8B1B1D47350B002B4BAD /* Global Forms */ = {
 			isa = PBXGroup;
 			children = (
+				139D76831D4A1F8900947D82 /* cropped-Transparent-Logo-S-1.png */,
 				13FF8B1C1D47350B002B4BAD /* AppDelegate.swift */,
 				13FF8B1E1D47350B002B4BAD /* ViewController.swift */,
 				13FF8B311D477E85002B4BAD /* CustomCells.swift */,
@@ -159,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				13FF8B271D47350B002B4BAD /* LaunchScreen.storyboard in Resources */,
+				139D76841D4A1F8900947D82 /* cropped-Transparent-Logo-S-1.png in Resources */,
 				13FF8B241D47350B002B4BAD /* Assets.xcassets in Resources */,
 				13FF8B301D477E7B002B4BAD /* WeekDaysCell.xib in Resources */,
 				13FF8B221D47350B002B4BAD /* Main.storyboard in Resources */,
